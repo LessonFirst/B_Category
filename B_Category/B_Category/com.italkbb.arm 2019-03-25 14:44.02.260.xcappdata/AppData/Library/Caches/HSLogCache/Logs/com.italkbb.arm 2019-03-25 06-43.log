@@ -1,5 +1,0 @@
-[2019-03-25 14:43:33:039 | Debug | file:HSArmAppDelegate+Ext line:117]: HSLogCache file path:/var/mobile/Containers/Data/Application/674A92B8-933C-4525-8EA7-197F739589C5/Library/Caches/HSLogCache/Logs
-[2019-03-25 14:43:33:085 | Debug | file:HSNavController line:70]: 当前push的控制器:<HSLoginViewController: 0x10922e320>
-[2019-03-25 14:43:35:307 | Debug | file:HSUIToastService line:82]: 更新ApplicationIconBadgeNumber-----error:Error Domain=com.italkbb.error Code=79 "您的账号已登录其他设备" UserInfo={NSLocalizedDescription=您的账号已登录其他设备, HSErrorOrignalDescriptionKey=OAuth Fail}
-[2019-03-25 14:43:36:783 | Debug | file:HSArmAppDelegate+Ext line:221]: deviceToken is f40481f9f9f4550e2d53cb24afa8f722784b7a0fd79d7d9fbf508c670e113dbb
-[2019-03-25 14:43:38:001 | Debug | file:HSUIToastService line:82]: 更新ApplicationIconBadgeNumber-----error:Error Domain=com.italkbb.error Code=79 "您的账号已登录其他设备" UserInfo={NSLocalizedDescription=您的账号已登录其他设备, HSErrorOrignalDescriptionKey=OAuth Fail}
